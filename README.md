@@ -16,7 +16,7 @@ This project started as a way to keep track of my progress, but it also serves a
 - To share knowledge and maybe help others who are on a similar journey  
 
 ## 🌐 Live site
-You can view the live site on [GitHub Pages](https://humm1ngb1rd77.github.io/MyCyberLog/).
+You can view the live site on [GitHub Pages](https://jernejpetek.github.io/MyCyberLog/).
 
 ---
 
